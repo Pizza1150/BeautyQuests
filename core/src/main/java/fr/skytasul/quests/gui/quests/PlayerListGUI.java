@@ -35,7 +35,7 @@ import fr.skytasul.quests.utils.QuestUtils;
 public class PlayerListGUI extends PagedGUI<Quest> {
 
 	static final String UNSELECTED_PREFIX = "§7○ ";
-	private static final String SELECTED_PREFIX = "§b§l● ";
+	private static final String SELECTED_PREFIX = "";
 
 	private PlayerAccountImplementation acc;
 	private boolean hide;
